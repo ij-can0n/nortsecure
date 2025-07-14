@@ -32,6 +32,7 @@ Have you purchased Norton from a physical retail store and are wondering how to 
 
 
 **Where do I find my Norton product key?**
+-----------------------------------------
 
 Your product key is usually a 25-character code located:
 
